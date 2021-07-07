@@ -1,2 +1,5 @@
 # App-Mercado_Liebre
-Incluye la aplicación de Mercado Liebre trabajada en clase de Digital House
+
+Incluye el ejercicio realizado del E-commerce Mercado Liebre con los desafíos y actividades realizadas en las clases de Digital House
+
+Diana Lizbeth Castellanos Martínez
